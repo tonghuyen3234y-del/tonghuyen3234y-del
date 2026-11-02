@@ -5,13 +5,10 @@
 </p>
 
 <p align="center"><sub>点击上方招牌，走进我的个人小镇 · 主页模式 / 3D Drive 探索模式</sub></p>
-<p align="center"><a href="README.en.md">English</a></p>
+<p align="center"><a href="README.en.md">
 
 ## 👋 你好，我是李慧洁Iris
 
-**应届生｜AI Builder & Creator**<br />
-**Vibe Coding 爱好者｜慢变量AI · 科技写作**<br />
-**探索 AI 产品与 Agent，让有趣的想法落地**
 
 我喜欢尝试 AI 产品、Agent 与新的创作工具，也用文字记录对科技与生活的观察。<br />
 这里收录我的 AI 应用、写作 Skill 和网页交互实践。
