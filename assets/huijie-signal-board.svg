@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+<title id="title">李慧洁 · Huijie’s Space</title>
+<desc id="desc">保持好奇，持续创造。应届生，AI Builder and Creator。点击进入好奇小镇，探索个人主页与驾驶模式。</desc>
+<defs>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#202d24" stroke-opacity=".055"/></pattern>
+ <linearGradient id="paper" x2="1" y2="1"><stop stop-color="#fffdf7"/><stop offset="1" stop-color="#eee8da"/></linearGradient>
+ <filter id="shadow" x="-15%" y="-15%" width="150%" height="150%"><feDropShadow dx="7" dy="7" stdDeviation="0" flood-color="#202d24"/></filter>
+ <clipPath id="headline-clip"><rect x="64" y="124" width="675" height="132"/></clipPath>
+</defs>
+<style>
+ .sans{font-family:"Avenir Next","PingFang SC","Microsoft YaHei",sans-serif}.serif{font-family:Georgia,"Songti SC",STSong,serif}.mono{font-family:"SFMono-Regular",Menlo,Consolas,monospace}
+ .ink{fill:#202d24}.muted{fill:#6d7066}.red{fill:#965039}.green{fill:#486e56}.blue{fill:#2a6f82}
+ .entry{animation:entry 8.4s ease-in-out infinite}.d2{animation-delay:.16s}.d3{animation-delay:.32s}.d4{animation-delay:.48s}.headline{animation:headline 8.4s cubic-bezier(.2,.75,.2,1) infinite}.route{stroke-dasharray:8 10;animation:route 22s linear infinite}.cursor{animation:blink 1.1s steps(1) infinite}.pulse{animation:pulse 2.4s ease-in-out infinite}.arrow{animation:arrow 1.8s ease-in-out infinite}
+ @keyframes entry{0%,3%{opacity:0;transform:translateY(7px)}12%,87%{opacity:1;transform:translateY(0)}97%,100%{opacity:0;transform:translateY(-3px)}}
+ @keyframes headline{0%,5%{transform:translateY(135px);opacity:0}17%,88%{transform:translateY(0);opacity:1}98%,100%{transform:translateY(-10px);opacity:0}}
+ @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}@keyframes route{to{stroke-dashoffset:-220}}@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}@keyframes arrow{50%{transform:translateX(6px)}}
+ @media(prefers-reduced-motion:reduce){.moving-signal{display:none}.entry,.headline,.route,.cursor,.pulse,.arrow{animation:none;opacity:1;transform:none}}
+</style>
+<rect x="9" y="9" width="1182" height="542" rx="20" fill="#202d24"/>
+<rect x="1" y="1" width="1182" height="542" rx="20" fill="url(#paper)" stroke="#202d24" stroke-width="2"/>
+<rect x="1" y="1" width="1182" height="542" rx="20" fill="url(#grid)"/>
+<path d="M1 68H1183" stroke="#202d24" stroke-width="2"/>
+<rect x="25" y="23" width="65" height="29" rx="14" fill="#202d24"/>
+<text x="57" y="43" class="mono" text-anchor="middle" fill="#fffdf7" font-size="17" font-weight="800">HJ.</text>
+<text x="109" y="43" class="mono ink" font-size="14" font-weight="700" letter-spacing="1.3">HUIJIE’S SPACE // BUILD &amp; WRITE</text>
+<text x="1142" y="43" class="mono muted" font-size="12" text-anchor="end">STAY CURIOUS</text><circle cx="1161" cy="38" r="5" class="green pulse"/>
+<text x="69" y="110" class="mono red entry" font-size="14" font-weight="700" letter-spacing="1.5">AI BUILDER &amp; CREATOR · VIBE CODING</text>
+<g clip-path="url(#headline-clip)"><g class="headline"><text x="67" y="188" class="serif ink" font-size="62" font-weight="700">保持好奇，</text><text x="67" y="249" class="serif ink" font-size="62" font-weight="700">持续创造<tspan class="red">。</tspan></text></g></g>
+<text x="71" y="291" class="sans muted entry d2" font-size="20">探索 AI 产品与 Agent，让有趣的想法落地。</text>
+<text x="71" y="324" class="sans muted entry d3" font-size="19">李慧洁 / Huijie Li · 慢变量AI · 科技写作</text>
+<rect x="758" y="112" width="354" height="236" rx="9" fill="#fffdf7" stroke="#202d24" stroke-width="2" filter="url(#shadow)"/>
+<circle cx="785" cy="138" r="6" fill="#965039"/><circle cx="805" cy="138" r="6" fill="#b78a35"/><circle cx="825" cy="138" r="6" fill="#6b8059"/>
+<text x="1089" y="143" class="mono muted" font-size="12" text-anchor="end">huijie@space ~ % whoami</text><path d="M758 160H1112" stroke="#202d24" stroke-opacity=".15"/>
+<g class="mono" font-size="14"><g class="entry"><text x="785" y="194" class="blue" font-weight="700">[BUILD]</text><text x="865" y="194" class="ink">AI apps / Agent Skills</text></g>
+<g class="entry d2"><text x="785" y="226" class="red" font-weight="700">[TRY]</text><text x="865" y="226" class="ink">ideas / Vibe Coding</text></g>
+<g class="entry d3"><text x="785" y="258" class="green" font-weight="700">[WRITE]</text><text x="865" y="258" class="ink">Slow Variables · AI</text></g>
+<g class="entry d4"><text x="785" y="290" class="blue" font-weight="700">[SHARE]</text><text x="865" y="290" class="ink">GitHub / WeChat</text></g>
+<text x="785" y="327" class="red entry d4" font-size="12">STAY CURIOUS. KEEP CREATING.<tspan class="cursor">_</tspan></text></g>
+<path d="M69 383H1112" stroke="#202d24" stroke-opacity=".22"/>
+<text x="69" y="412" class="mono muted" font-size="12" letter-spacing="1.8">FOLLOW THE CURIOSITY</text>
+<path class="route" d="M114 470C270 414 385 518 554 470S848 420 1081 470" fill="none" stroke="#202d24" stroke-opacity=".5" stroke-width="2"/>
+<circle class="moving-signal" r="6" fill="#965039"><animateMotion dur="5.5s" repeatCount="indefinite" path="M114 470C270 414 385 518 554 470S848 420 1081 470"/></circle>
+<g class="entry"><circle cx="114" cy="470" r="12" fill="#fffdf7" stroke="#202d24" stroke-width="2"/><text x="114" y="511" class="mono ink" font-size="13" font-weight="700" text-anchor="middle">EXPLORE</text></g>
+<g class="entry d2"><circle cx="408" cy="470" r="12" fill="#fffdf7" stroke="#202d24" stroke-width="2"/><text x="408" y="511" class="mono ink" font-size="13" font-weight="700" text-anchor="middle">CREATE</text></g>
+<g class="entry d3"><circle cx="699" cy="470" r="12" fill="#fffdf7" stroke="#202d24" stroke-width="2"/><text x="699" y="511" class="mono ink" font-size="13" font-weight="700" text-anchor="middle">WRITE</text></g>
+<g class="entry d4"><circle cx="993" cy="470" r="12" fill="#fffdf7" stroke="#202d24" stroke-width="2"/><text x="993" y="511" class="mono ink" font-size="13" font-weight="700" text-anchor="middle">SHARE</text></g>
+<text x="1111" y="529" class="mono red" font-size="11" font-weight="700" text-anchor="end">STEP INTO MY SPACE</text><text x="1120" y="529" class="mono red arrow" font-size="17">→</text>
+</svg>
