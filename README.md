@@ -7,7 +7,7 @@
 <p align="center"><sub>点击上方招牌，走进我的个人小镇 · 主页模式 / 3D Drive 探索模式</sub></p>
 <p align="center"><a href="README.en.md">
 
-## 👋 你好，我是李慧洁～
+## 👋 你好，我是李慧洁·Iris
 
 
 我喜欢尝试 AI 产品、Agent 与新的创作工具，也用文字记录对科技与生活的观察。<br />
