@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://tonghuyen3234y-del.github.io/hj/">
-    <img src="assets/huijie-signal-board.svg" width="100%" alt="李慧洁 · Huijie’s Space。保持好奇，持续创造。点击进入我的个人小镇。" />
+    <img src="assets/huijie-signal-board.svg" width="100%" alt="李慧洁 · Huijie’s Space。保持好奇，持续AI创造。点击进入我的个人小镇。" />
   </a>
 </p>
 
 <p align="center"><sub>点击上方招牌，走进我的个人小镇 · 主页模式 / 3D Drive 探索模式</sub></p>
 <p align="center"><a href="README.en.md">
 
-## 👋 你好，我是李慧洁Iris
+## 👋 你好，我是李慧洁
 
 
 我喜欢尝试 AI 产品、Agent 与新的创作工具，也用文字记录对科技与生活的观察。<br />
@@ -27,7 +27,7 @@
 | 🖼️ **商品场景图生成器** | 上传商品图，选择场景，生成并下载场景图片；使用 Dify、Supabase 与 Vercel | [源码](https://github.com/tonghuyen3234y-del/product-scene-studio) · [在线体验](https://product-scene-studio-sooty.vercel.app/) |
 | 🎙️ **科技口播写作 Skill** | 核实科技新闻，整理五个标题、一段口播和来源链接，在 Codex 中使用 | [安装与源码](https://github.com/tonghuyen3234y-del/tech-video-script) · [介绍页](https://tonghuyen3234y-del.github.io/tech-video-script/) |
 | 🎞️ **醒图双语交互落地页** | 练习双语切换、3D 视觉、照片交互与响应式页面 | [源码](https://github.com/tonghuyen3234y-del/xingtu-landing) · [网页演示](https://tonghuyen3234y-del.github.io/xingtu-landing/) |
-| 🏡 **Huijie’s Space · 好奇小镇** | 用可探索的小镇组织个人介绍、文章与创意，支持中英文和驾驶模式 | [源码](https://github.com/tonghuyen3234y-del/hj) · [走进小镇](https://tonghuyen3234y-del.github.io/hj/) |
+| 🏡 **Huijie’s Space** | 用可探索的小镇组织个人介绍、文章与创意，支持中英文和驾驶模式 | [源码](https://github.com/tonghuyen3234y-del/hj) · [走进小镇](https://tonghuyen3234y-del.github.io/hj/) |
 
 ## 🧩 技能与标签
 
