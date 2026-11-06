@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tonghuyen3234y-del.github.io/hj/">
-    <img src="assets/huijie-signal-board.svg" width="100%" alt="李慧洁 · Huijie’s Space。保持好奇，持续AI创造。点击进入我的个人小镇。" />
+    <img src="assets/huijie-signal-board.svg" width="100%" alt="李慧洁 · Huijie’s Space。All in AI .点击进入我的个人小镇。" />
   </a>
 </p>
 
